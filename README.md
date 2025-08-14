@@ -7,3 +7,4 @@ Repository dedicated to the exercises and projects os this course
 - [x] Day 03 - Treasure Island
 - [x] Day 04 - Rock, Paper, Scissors
 - [x] Day 05 - Password Generator Project
+- [x] Day 06 - Escaping the maze
